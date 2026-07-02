@@ -8,8 +8,9 @@
     <animate attributeName="r" values="46;49;46" dur="3s" repeatCount="indefinite"/>
   </circle>
   <circle cx="230" cy="230" r="40" fill="none" stroke="#00FF9F" stroke-width="0.4" opacity="0.4"/>
-  <text x="230" y="225" font-family="Courier New" font-size="14" fill="#00FF9F" text-anchor="middle" font-weight="700">WW</text>
-  <text x="230" y="243" font-family="Courier New" font-size="9" fill="#4a9960" text-anchor="middle">warwolf</text>
+  <circle cx="230" cy="230" r="4" fill="#00FF9F">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 230 230" to="360 230 230" dur="20s" repeatCount="indefinite"/>
     <g transform="translate(230,120)">
