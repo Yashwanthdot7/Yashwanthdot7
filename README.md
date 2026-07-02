@@ -14,7 +14,7 @@ Passionate about both frontend craft and backend architecture — shipping softw
 </p>
 
 <div align="center">
-  <img src="./assets/orbit.svg" alt="Tech orbit animation" width="460"/>
+  <img src="./orbit.svg" alt="Tech orbit animation" width="460"/>
 </div>
 
 ---
