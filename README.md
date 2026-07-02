@@ -30,7 +30,7 @@ Passionate about both frontend craft and backend architecture — shipping softw
 ---
 
 <div align="center">
-  <img src="./assets/techstack.svg" alt="Tech stack" width="800"/>
+  <img src="./techstack.svg" alt="Tech stack" width="800"/>
 </div>
 
 ---
